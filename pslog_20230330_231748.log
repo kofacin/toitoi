@@ -1,0 +1,33 @@
+00000_2023/03/30_23:17:47.706(+00.000)[0x20efe8600] [PsACPL] ACPL logging initialized successfully.
+00001_2023/03/30_23:17:47.747(+00.041)[0x20efe8600] [PsACPL] Fetching ACPLClient for the first time.
+00002_2023/03/30_23:17:47.860(+00.113)[0x20efe8600] [PsACPL] Fetching ACPLClient for the first time.
+00003_2023/03/30_23:17:47.862(+00.002)[0x20efe8600] [PsACPL-RM] Op Update - operation: [acpl:init] status: [success] op guid: [F6D56D49-D2BD-40A9-92B4-79D457AF96B8] asset: []
+00004_2023/03/30_23:17:47.862(+00.000)[0x20efe8600] [PsACPL-RM] Op Update - operation: [cs:get_core_sync_status] status: [start] op guid: [5C5308EA-C54B-412D-A771-7CADEE878147] asset: []
+00005_2023/03/30_23:17:47.867(+00.005)[0x20efe8600] [PsACPL] Initializing IMS connection.
+00006_2023/03/30_23:17:47.868(+00.001)[0x20efe8600] [PsACPL] Handling user logout.
+00007_2023/03/30_23:17:47.868(+00.001)[0x20efe8600] [PsACPL-RM] [RH] Subscribing to notifications.
+00008_2023/03/30_23:17:47.869(+00.001)[0x20efe8600] [PsACPL-RM] Op Update - operation: [cs:subscribe_to_notf] status: [start] op guid: [6FF644C4-EB3D-4922-8FCB-DFEC6F543C71] asset: []
+00009_2023/03/30_23:17:47.875(+00.006)[0x3167a0000] [PsACPL-RM] Op Update - operation: [cs:subscribe_to_notf] status: [success] op guid: [6FF644C4-EB3D-4922-8FCB-DFEC6F543C71] asset: []
+00010_2023/03/30_23:17:47.875(+00.000)[0x20efe8600] [PsACPL-RM] Op Update - operation: [cs:subscribe_to_notf] status: [start] op guid: [D76FC4AA-4146-4E19-8EC2-DE274996DA3D] asset: []
+00011_2023/03/30_23:17:47.876(+00.000)[0x31669a000] [PsACPL-RM] Op Update - operation: [cs:subscribe_to_notf] status: [success] op guid: [D76FC4AA-4146-4E19-8EC2-DE274996DA3D] asset: []
+00012_2023/03/30_23:17:47.876(+00.000)[0x20efe8600] [PsACPL-RM] [LSH] HandleUserGUIDChanged for user ""; state = Unregistered.
+00013_2023/03/30_23:17:47.876(+00.000)[0x20efe8600] [PsACPL-RM] [LSH] Processing creds for user ""; state = Unregistered.
+00014_2023/03/30_23:17:47.876(+00.000)[0x20efe8600] [PsACPL-RM] [LSH] Unexpected request to handle empty user when no user is registered.
+00015_2023/03/30_23:17:47.880(+00.003)[0x20efe8600] [PsACPL] Handling user logout.
+00016_2023/03/30_23:17:47.880(+00.000)[0x20efe8600] [PsACPL-RM] [LSH] HandleUserGUIDChanged for user ""; state = Unregistered.
+00017_2023/03/30_23:17:47.880(+00.000)[0x20efe8600] [PsACPL-RM] [LSH] Processing creds for user ""; state = Unregistered.
+00018_2023/03/30_23:17:47.880(+00.000)[0x20efe8600] [PsACPL-RM] [LSH] Unexpected request to handle empty user when no user is registered.
+00019_2023/03/30_23:17:47.882(+00.002)[0x31671d000] [PsACPL-RM] Op Update - operation: [cs:get_core_sync_status] status: [success] op guid: [5C5308EA-C54B-412D-A771-7CADEE878147] asset: []
+00020_2023/03/30_23:17:47.882(+00.000)[0x31671d000] [PsACPL] Core Sync Check: ReachableAndCompatible Required: 4.3.4.2 Running: 4.3.4.2 ACPL SDK Version: 1.24.4
+00021_2023/03/30_23:27:47.649(+599.767)[0x20efe8600] [PsACPL] Handling user logout.
+00022_2023/03/30_23:27:47.686(+00.037)[0x20efe8600] [PsACPL-RM] [LSH] HandleUserGUIDChanged for user ""; state = Unregistered.
+00023_2023/03/30_23:27:47.686(+00.000)[0x20efe8600] [PsACPL-RM] [LSH] Processing creds for user ""; state = Unregistered.
+00024_2023/03/30_23:27:47.686(+00.000)[0x20efe8600] [PsACPL-RM] [LSH] Unexpected request to handle empty user when no user is registered.
+00025_2023/03/30_23:42:47.572(+899.885)[0x20efe8600] [PsACPL] Handling user logout.
+00026_2023/03/30_23:42:47.596(+00.025)[0x20efe8600] [PsACPL-RM] [LSH] HandleUserGUIDChanged for user ""; state = Unregistered.
+00027_2023/03/30_23:42:47.597(+00.000)[0x20efe8600] [PsACPL-RM] [LSH] Processing creds for user ""; state = Unregistered.
+00028_2023/03/30_23:42:47.597(+00.000)[0x20efe8600] [PsACPL-RM] [LSH] Unexpected request to handle empty user when no user is registered.
+00029_2023/03/30_23:57:49.639(+902.042)[0x20efe8600] [PsACPL] Handling user logout.
+00030_2023/03/30_23:57:49.676(+00.037)[0x20efe8600] [PsACPL-RM] [LSH] HandleUserGUIDChanged for user ""; state = Unregistered.
+00031_2023/03/30_23:57:49.676(+00.000)[0x20efe8600] [PsACPL-RM] [LSH] Processing creds for user ""; state = Unregistered.
+00032_2023/03/30_23:57:49.676(+00.000)[0x20efe8600] [PsACPL-RM] [LSH] Unexpected request to handle empty user when no user is registered.
